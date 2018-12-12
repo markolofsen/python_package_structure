@@ -23,7 +23,7 @@ Python provides a very straightforward packaging system, which is simply an exte
 
 ### Попробуйте сейчас - <a href="https://gitupload.com">GtUpload.com</a>
 
-Версия = 0.0.7 <br />
+Версия = 0.0.8 <br />
 Название библиотеки = python_package_structure <br />
 Название = Python package structure <br />
 Ключевые слова = Git,  upload,  package,  repo, system packaging directory <br />
